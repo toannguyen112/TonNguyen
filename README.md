@@ -1,1 +1,1 @@
-<a href="https://app.daily.dev/toannguyen112"><img src="https://api.daily.dev/devcards/48e9ac3e283e48c78745b135d7276497.png?r=2o1" width="400" alt="Nguyễn Công Toàn's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/toannguyen112/toannguyen112/blob/master/devcard.svg" width="400" alt="TonNguyen Dev Card"/></a>
